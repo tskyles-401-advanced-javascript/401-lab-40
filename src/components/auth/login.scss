@@ -1,0 +1,28 @@
+.login {
+  background-color: orangered;
+  height: 20vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  h1 {
+    margin-left: 2.5%;
+  }
+
+  input {
+    padding: 5px;
+    margin: 5px;
+  }
+
+  button {
+    margin-right: 2.5%;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    margin-right: 2.5%;
+  }
+}
+
