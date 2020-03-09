@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jest": "^25.1.0",
     "jsonwebtoken": "8.5.1",
     "react": "^16.10.1",
     "react-cookies": "0.1.1",
